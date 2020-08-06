@@ -1,7 +1,7 @@
 # FaceMesh Extraction
 
 ## Introduction
-FaceMesh Extraction is the use of Augmented Reality (AR) APIs and face detection models to determine which portions of an image may contain faces, and to provide information about those faces to the application. There is a spectrum of information that can be provided, ranging from simple bounding boxes to a full face mesh. This document/effort will be focused on what is necessary to allow rendering to a full face mesh.
+FaceMesh Extraction is the use of face detection models (including Augmented Reality (AR) APIs) to determine which portions of an image may contain faces, and to provide information about those faces to the application. There is a spectrum of information that can be provided, ranging from simple bounding boxes to a full face mesh. This document/effort will be focused on what is necessary to allow rendering to a full face mesh.
 
 ## Use Cases
 Some example use cases include, but are not limited to:
